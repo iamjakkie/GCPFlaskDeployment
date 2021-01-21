@@ -19,7 +19,7 @@ Terraform contains deployment scripts.\
 3. Creating VM in GCP
 ![img](/img/app01.PNG)
 4. Setting up firewall rules and static external IP address
-5. Running an app
+5. Running an app\
 ![img](/img/app02.PNG)
 ![img](/img/app03.PNG)
 
